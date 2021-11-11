@@ -23,6 +23,5 @@ struct UserVM {
 
 ```
 ## Author:
-
 Mubarak Alseif 👨‍💻
 info@easycode.co
